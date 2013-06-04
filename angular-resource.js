@@ -534,4 +534,4 @@ angular.module('ngResource', ['ng']).
   }]);
 
 
-})(window, require('angular'));
+})(window, require('angularjs'));

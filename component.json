@@ -4,7 +4,9 @@
   "description": "Angular resource component",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "jabapyth/angularjs": "*"
+  },
   "development": {},
   "license": "MIT",
   "main": "angular-resource.js",
