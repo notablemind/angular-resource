@@ -1,0 +1,14 @@
+{
+  "name": "angular-resource",
+  "repo": "notablemind/angular-resource",
+  "description": "Angular resource component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "angular-resource.js",
+  "scripts": [
+    "angular-resource.js"
+  ]
+}
